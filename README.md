@@ -26,7 +26,7 @@ O sistema adota uma arquitetura Cliente-Servidor totalmente desacoplada.
 * **Administradores:** Acesso total às funções gerenciais do sistema.
 * **Suporte Técnico:** Responsáveis por atualizar status de ocorrências e definir prioridades.
 
-## Sobre o Projeto (About)
+## Sobre o Projeto
 
 O **ConnectNet** é o resultado de um projeto acadêmico desenvolvido em 2026 para o curso de Tecnologia em Sistemas para Internet da Universidade Estadual do Piauí – UESPI (EAD - UAPPI), Polo Jerumenha. 
 
